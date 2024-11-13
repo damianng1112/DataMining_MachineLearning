@@ -1,0 +1,16 @@
+,Name,Warm-blooded,Gives Birth,Aquatic Creature,Aerial Creature,Has Legs,Hibernates,Class
+0,human,1,1,0,0,1,0,mammals
+1,python,0,0,0,0,0,1,non-mammals
+2,salmon,0,0,1,0,0,0,non-mammals
+3,whale,1,1,1,0,0,0,mammals
+4,frog,0,0,1,0,1,1,non-mammals
+5,komodo,0,0,0,0,1,0,non-mammals
+6,bat,1,1,0,1,1,1,mammals
+7,pigeon,1,0,0,1,1,0,non-mammals
+8,cat,1,1,0,0,1,0,mammals
+9,leopard shark,0,1,1,0,0,0,non-mammals
+10,turtle,0,0,1,0,1,0,non-mammals
+11,penguin,1,0,1,0,1,0,non-mammals
+12,porcupine,1,1,0,0,1,1,mammals
+13,eel,0,0,1,0,0,0,non-mammals
+14,salamander,0,0,1,0,1,1,non-mammals
